@@ -1,2 +1,5 @@
 ---
+- nameL Print a message
+  debug:
+    msg: "Hello, this is MN521 Ansible Lab Role"
 # tasks file for MN521-AnsibleLab-Role

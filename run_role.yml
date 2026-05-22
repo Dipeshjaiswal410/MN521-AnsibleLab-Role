@@ -1,0 +1,8 @@
+
+- name: Test MN521 Ansible Role
+  hosts: all
+  vars_files:
+    - vars/main.yml
+  roles:
+    - MN521-AnsibleLab-Role
+
